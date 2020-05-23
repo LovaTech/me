@@ -1,0 +1,32 @@
+Package: com.lovatech.fifamobile
+Version: v13.1-1+debug
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.lovatech.fifamobile_v13.1-1+debug_iphoneos-arm.deb
+Size: 36306
+MD5sum: f54e5a552833f213a5740477e66722ad
+SHA1: 5cda24006fbed014d293ecd7b5f0d6e3fab2ca85
+SHA256: 8b63135f951f9b3dd23c43219193aa719412abfa2db7c6e122a2a05088a89580
+Section: Tweaks
+Description: Follow me on YouTube: Lova tech, Telegram: ilovatech, Telegram channel: lovatech Instagram: lova.tech
+Author: LOVA
+Homepage: youtube
+Installed-Size: 180
+Name: FIFA MOBILE HACK v13.1
+
+Package: com.lovatech.ludostar
+Version: 1.13-1+debug
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.lovatech.ludostar_1.13 Hack.deb
+Size: 36188
+MD5sum: d9d8adb51d6ea8db6aa33a31d6a102a4
+SHA1: 9766a737bd599341f7af8095add984af1331505b
+SHA256: f7b7cb44b50cd5145b942e92e493d21cac6ce67cd5870526b39a3f67aeddbc3d
+Section: Tweaks
+Description: Ludo Star Cheat mod menu made by LOVA for LovaTech
+Author: LOVA
+Homepage: LovaTech
+Installed-Size: 180
+Name: Ludo Star Cheat
+
