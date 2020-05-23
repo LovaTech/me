@@ -1,6 +1,6 @@
 <package>
-	<id>com.shiarahmed.snapchat</id>
-	<name>Snapchat</name>
+	<id>com.lovatech.fifamobile</id>
+	<name>FIFA Mobile</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -12,7 +12,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Snapchat tweak</shortDescription>
+	<shortDescription>FIFA Mobile Cheat</shortDescription>
 	<descriptionlist>
 		<description>Snapchat test</description>
 		<description>Supports iOS 10.0 - 12.4</description>

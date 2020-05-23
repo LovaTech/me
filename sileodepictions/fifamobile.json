@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Snapchat Tweak for Testing"
+					"markdown": "FIFA Mobile Cheat"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -30,7 +30,7 @@
 				},
 				{
 					"title": "Last Updated",
-					"text": "September 15, 2019",
+					"text": "23/05/2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -40,28 +40,18 @@
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 10.0 - 12.4",
+					"text": "iOS 10.0 - 13.5",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "Shiar",
+					"text": "lovatech",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "Shiar",
+					"text": "lovatech",
 					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Contact Developer",
-					"action": "mailto:abc@gmail.com",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Contact Maintainer",
-					"action": "mailto:abc@gmail.com",
-					"class": "DepictionTableButtonView"
 				},
 				{
 					"spacing": 16,
