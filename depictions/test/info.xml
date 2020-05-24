@@ -1,6 +1,6 @@
 <package>
 	<id>com.lovatech.fifamobile</id>
-	<name>FIFA Mobile</name>
+	<name>fifamobile</name>
 	<version>13.1-1+debug</version>
 	<compatibility>
 		<firmware>
