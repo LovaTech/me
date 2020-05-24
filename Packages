@@ -1,5 +1,5 @@
 Package: com.lovatech.fifamobile
-Version: v13.1-1+debug
+Version: 13.1-1+debug
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/com.lovatech.fifamobile_v13.1-1+debug_iphoneos-arm.deb
