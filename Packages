@@ -1,3 +1,20 @@
+Package: com.iosgods.sinsraid
+Version: 1.8.0
+Architecture: iphoneos-arm
+Maintainer: L O V A
+Depends: mobilesubstrate
+Filename: ./debs/com.iosgods.sinsraid_1.8.0_iphoneos-arm.deb
+Size: 108072
+MD5sum: ca85f78e00af51bfb2aea87876c84284
+SHA1: 6cb67c5e20b5692a3a4f0c4699e5a118c44e2d3c
+SHA256: 64e04433eb9c901d24bf72509747add3cec8f7c3943900510995273f4fb50a30
+Section: Tweaks
+Description: sins raid Mod Menu by L O V A for iosgods!
+Author: L O V A
+Homepage: iosgods
+Installed-Size: 320
+Name: Sins Raid Cheat Mod Menu v1.8.0
+
 Package: com.lova.ludostar
 Version: 1.13
 Architecture: iphoneos-arm
