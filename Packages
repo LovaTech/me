@@ -32,3 +32,20 @@ Homepage:
 Installed-Size: 304
 Name: FIFA Mobile Hack v13.1
 
+Package: lovatech.star
+Version: 1.41
+Architecture: iphoneos-arm
+Maintainer: L O V A
+Depends: mobilesubstrate
+Filename: ./debs/lovatech.star_1.41_iphoneos-arm.deb
+Size: 107692
+MD5sum: 9061ef1327f2c73f9434e3951bcf015c
+SHA1: 8da1377e38aeae0981cd60fab2b4de6cf4862064
+SHA256: 30d513f95576b0539bceb29c246857b26ea2febc7bb142166ef5548494c2a18b
+Section: Tweaks
+Description: Parchisi Star Mod Menu by L O V A!
+Author: L O V A
+Homepage: 
+Installed-Size: 320
+Name: Parchisi Star V1.41
+
