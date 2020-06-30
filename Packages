@@ -21,10 +21,10 @@ Architecture: iphoneos-arm
 Maintainer: L O V A
 Depends: mobilesubstrate
 Filename: ./debs/com.lovatech.fifa1_13.1_iphoneos-arm.deb
-Size: 107860
-MD5sum: 88d583c21203b15f17c945b95db88020
-SHA1: 64f2147d59eb8ca2492763328bca60490af1113c
-SHA256: 08e4085d7b467689953af84cb2c6f424f457fe438cfce4b64c30f6165e0d0342
+Size: 107476
+MD5sum: e98e53aa836661e38f45990eb2eed791
+SHA1: 36677d167876bd39527141902193c907e8118de5
+SHA256: 003fc218e98391b44a94afafa9d168a51b7109a033f81b4f72cff96ae4a3b1ab
 Section: Tweaks
 Description: FIFA Mobile Mod Menu by L O V A for Everyone
 Author: L O V A
