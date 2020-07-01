@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: L O V A
 Depends: mobilesubstrate
 Filename: ./debs/com.lovatech.valiant_1.3.0_iphoneos-arm.deb
-Size: 107966
-MD5sum: afc275256ebb9f4fbb10848cb7847925
-SHA1: 9b2f371f7ae8aaf81f561c5326a699150efa0fde
-SHA256: 9ac61fd6c093233fa7df3641812edfb2ec7799741146fa31eca09188af4662f8
+Size: 107684
+MD5sum: 56e7611490cac1ce0feee1b2b5d9779a
+SHA1: ad3d3e47915e04a502372630ea2735a5df99e3e5
+SHA256: 807d957b328b4f49939d2cdf6cef43abb3133d288cdd986f1fbd6f4a4ae23eee
 Section: Tweaks
 Description: Valiant Tales Mod Menu by L O V A!
 Author: L O V A
