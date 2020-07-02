@@ -33,36 +33,36 @@ Installed-Size: 320
 Name: FIFA Mobile Cheat v13.1
 
 Package: com.lovatech.valiant
-Version: 1.3.0
+Version: 1.3.4
 Architecture: iphoneos-arm
 Maintainer: L O V A
 Depends: mobilesubstrate
-Filename: ./debs/com.lovatech.valiant_1.3.0_iphoneos-arm.deb
-Size: 107684
-MD5sum: 56e7611490cac1ce0feee1b2b5d9779a
-SHA1: ad3d3e47915e04a502372630ea2735a5df99e3e5
-SHA256: 807d957b328b4f49939d2cdf6cef43abb3133d288cdd986f1fbd6f4a4ae23eee
+Filename: ./debs/com.lovatech.valiant_1.3.4_iphoneos-arm.deb
+Size: 107550
+MD5sum: 56895363b42c2e2c1f3e7604dc889318
+SHA1: e868ecdd3c8add77931f5ca7342adbe91358f0c3
+SHA256: 483cf80c1d004a1ec42d61201f96bf94d917d666c2a60c17a11ac18167d060dc
 Section: Tweaks
 Description: Valiant Tales Mod Menu by L O V A!
 Author: L O V A
 Homepage: 
 Installed-Size: 320
-Name: Valiant Tales Cheat v1.3.0
+Name: Valiant Tales Cheat v1.3.4
 
 Package: lovatech.star
-Version: 1.41
+Version: 1.42
 Architecture: iphoneos-arm
 Maintainer: L O V A
 Depends: mobilesubstrate
-Filename: ./debs/lovatech.star_1.41_iphoneos-arm.deb
-Size: 107832
-MD5sum: 5408301c7173bca00c2782cb1e7b3fe1
-SHA1: f04461a270510f343ca16983e7748f4ecd44977a
-SHA256: 82cbf2557dc3da8fa8e506fb5f585320d605334571c17c99b2cce77dcc85adb0
+Filename: ./debs/lovatech.star_1.42_iphoneos-arm.deb
+Size: 108066
+MD5sum: 355e43c32535d931e51d2c7c97c892bd
+SHA1: 721f3da0fb3d98ec897b6588361d28f89e1b28d4
+SHA256: be83e396e372e9350797ff94038350bccfb526c4234b094817f5fb98ad197027
 Section: Tweaks
 Description: Parchisi Star Mod Menu by L O V A!
 Author: L O V A
 Homepage: 
 Installed-Size: 320
-Name: Parchisi Star V1.41
+Name: Parchisi Star V1.42
 
