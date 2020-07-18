@@ -11,26 +11,9 @@ SHA256: 53977625242e8642c9d6443569c48a40d4c8b4a29a2798440c36df2d6fd693f5
 Section: Tweaks
 Description: Ludo Star Hack Mod Menu by LOVA!
 Author: LOVA
-Homepage:
+Homepage: 
 Installed-Size: 304
 Name: Ludo Star Hack v1.13
-
-Package: com.lovatech.fifa1
-Version: 13.1
-Architecture: iphoneos-arm
-Maintainer: L O V A
-Depends: mobilesubstrate
-Filename: ./debs/com.lovatech.fifa1_13.1_iphoneos-arm.deb
-Size: 107476
-MD5sum: e98e53aa836661e38f45990eb2eed791
-SHA1: 36677d167876bd39527141902193c907e8118de5
-SHA256: 003fc218e98391b44a94afafa9d168a51b7109a033f81b4f72cff96ae4a3b1ab
-Section: Tweaks
-Description: FIFA Mobile Mod Menu by L O V A for Everyone
-Author: L O V A
-Homepage:
-Installed-Size: 320
-Name: FIFA Mobile Cheat v13.1
 
 Package: com.lovatech.valiant
 Version: 1.3.4
@@ -45,9 +28,26 @@ SHA256: 483cf80c1d004a1ec42d61201f96bf94d917d666c2a60c17a11ac18167d060dc
 Section: Tweaks
 Description: Valiant Tales Mod Menu by L O V A!
 Author: L O V A
-Homepage:
+Homepage: 
 Installed-Size: 320
 Name: Valiant Tales Cheat v1.3.4
+
+Package: com.platinmods.fifa1
+Version: 13.1.13
+Architecture: iphoneos-arm
+Maintainer: L O V A
+Depends: mobilesubstrate
+Filename: ./debs/com.platinmods.fifa1_13.1.13_iphoneos-arm.deb
+Size: 107780
+MD5sum: 57788960362c12dff0fa79c1678f668f
+SHA1: 251a6adbe94c940925be387d43a2c4d0c64cc5eb
+SHA256: 5937d16a50ffb2b106cfe36f839b8100f9fc5b3148d6cd1196f506e2bee6887a
+Section: Tweaks
+Description: FIFA Mobile Mod Menu by L O V A for PlatinMods.com.com!
+Author: L O V A
+Homepage: platinmods.com
+Installed-Size: 320
+Name: FIFA Mobile Cheat v13.1.13
 
 Package: lovatech.star
 Version: 1.42
@@ -62,6 +62,7 @@ SHA256: be83e396e372e9350797ff94038350bccfb526c4234b094817f5fb98ad197027
 Section: Tweaks
 Description: Parchisi Star Mod Menu by L O V A!
 Author: L O V A
-Homepage:
+Homepage: 
 Installed-Size: 320
 Name: Parchisi Star V1.42
+
