@@ -20,7 +20,7 @@ Version: 4.1.1
 Architecture: iphoneos-arm
 Maintainer: L O V A
 Depends: mobilesubstrate
-Filename: ./debs/com.lovatech.mighty_4.1.1_iphoneos-arm (2).deb
+Filename: ./debs/com.lovatech.mighty_4.1.1_iphoneos-arm.deb
 Size: 107738
 MD5sum: 50d10342658199f2efa0b58c2c698006
 SHA1: 4d492131c6b6dfe5a5e2b642d4bc99549352c4f3
