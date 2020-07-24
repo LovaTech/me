@@ -15,6 +15,23 @@ Homepage:
 Installed-Size: 304
 Name: Ludo Star Hack v1.13
 
+Package: com.lovatech.mighty
+Version: 4.1.1
+Architecture: iphoneos-arm
+Maintainer: L O V A
+Depends: mobilesubstrate
+Filename: ./debs/com.lovatech.mighty_4.1.1_iphoneos-arm (2).deb
+Size: 107738
+MD5sum: 50d10342658199f2efa0b58c2c698006
+SHA1: 4d492131c6b6dfe5a5e2b642d4bc99549352c4f3
+SHA256: ef48c59cd27328fd6cb0af0264363cad68b69c657dbd6286d4af95f64d109137
+Section: Tweaks
+Description: Mighty Quest Mod Menu by L O V A!
+Author: L O V A
+Homepage: 
+Installed-Size: 320
+Name: Mighty Quest Cheat v4.1.1
+
 Package: com.lovatech.valiant
 Version: 1.3.4
 Architecture: iphoneos-arm
