@@ -15,39 +15,39 @@ Homepage:
 Installed-Size: 304
 Name: Ludo Star Hack v1.13
 
-Package: com.lovatech.mighty
-Version: 4.1.1
+Package: com.lova.mighty
+Version: 5.0.1
 Architecture: iphoneos-arm
 Maintainer: L O V A
 Depends: mobilesubstrate
-Filename: ./debs/com.lovatech.mighty_4.1.1_iphoneos-arm.deb
-Size: 107738
-MD5sum: 50d10342658199f2efa0b58c2c698006
-SHA1: 4d492131c6b6dfe5a5e2b642d4bc99549352c4f3
-SHA256: ef48c59cd27328fd6cb0af0264363cad68b69c657dbd6286d4af95f64d109137
+Filename: ./debs/com.lova.mighty_5.0.1_iphoneos-arm.deb
+Size: 107916
+MD5sum: d41e9df06ec178a93bce64525776f58d
+SHA1: 528cd610a57f31ad60b7728a9f30dfa8bb5da338
+SHA256: aa0ae25fea57723ff8fb80a49306c4a7575fb399afc96df14da91afbf7bcbb7a
 Section: Tweaks
 Description: Mighty Quest Mod Menu by L O V A!
 Author: L O V A
 Homepage: 
 Installed-Size: 320
-Name: Mighty Quest Cheat v4.1.1
+Name: Mighty Quest Cheat v5.0.1
 
-Package: com.lovatech.valiant
-Version: 1.3.4
+Package: com.lova.sds
+Version: 1.1.7
 Architecture: iphoneos-arm
 Maintainer: L O V A
 Depends: mobilesubstrate
-Filename: ./debs/com.lovatech.valiant_1.3.4_iphoneos-arm.deb
-Size: 107884
-MD5sum: 3c4cd72bfc728cd32e109c554603fdd7
-SHA1: 8d621ffa51d1e5169fc786227903872182197a4c
-SHA256: ead835332b43471d302a7799555edc4bae4e02bea91d70a429f0bf136d1c0609
+Filename: ./debs/com.lova.sds_1.1.7_iphoneos-arm.deb
+Size: 107692
+MD5sum: ad23181c50bc5c10b761ac458b876e5e
+SHA1: 3b7492bed1799faa6137d2867d1d2f6f2c8fe420
+SHA256: 4c848904dd5f6ce2748e68cb661851881efc3439a63c1b6deb130474c9e501b6
 Section: Tweaks
-Description: Valiant Tales Mod Menu by L O V A!
+Description: 7DS Mod Menu by L O V A for platinmods.com!
 Author: L O V A
 Homepage: 
 Installed-Size: 320
-Name: Valiant Tales Cheat v1.3.4
+Name: 7DS Mod Menu
 
 Package: com.platinmods.fifa1
 Version: 13.1.13
@@ -65,6 +65,23 @@ Author: L O V A
 Homepage: platinmods.com
 Installed-Size: 320
 Name: FIFA Mobile Cheat v13.1.13
+
+Package: com.platinmods.valiant
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: L O V A
+Depends: mobilesubstrate
+Filename: ./debs/com.platinmods.valiant_1.4_iphoneos-arm.deb
+Size: 61168
+MD5sum: 23bb4ffc6b85b18537a63884defc5600
+SHA1: 532f3b043fe22120fbdb13b567de54d6c8214ac4
+SHA256: d646366f2ff1c3cc0a08231a01f5e6768fe02f6a6b9e0845203708e3e5b2d33b
+Section: Tweaks
+Description: Valiant Tales Mod Menu by L O V A for platinmods.com
+Author: L O V A
+Homepage: platinmods.com 
+Installed-Size: 272
+Name: Valiant Tales Cheat v1.4
 
 Package: lovatech.star
 Version: 1.42
